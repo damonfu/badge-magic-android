@@ -5,7 +5,7 @@ Magically Create Symbols and Text on LED Name Badges using Bluetooth
 [![Build Status](https://travis-ci.org/fossasia/badge-magic-android.svg?branch=development)](https://travis-ci.org/fossasia/badge-magic-android)
 [![Join the chat at https://gitter.im/fossasia/badge-magic](https://badges.gitter.im/fossasia/badge-magic.svg)](https://gitter.im/fossasia/badge-magic?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-The Badge Magic Android app lets you create scrolling symbols and text on LED name badges through Bluetooth. The app provides options options to portray names, clipart and simple animations on LED badges. For the data transfer from the smartphone to the LED badge we use Bluetooth. The project is based on the work of [Nilhcem](https://github.com/Nilhcem).
+The Badge Magic Android app lets you create scrolling symbols and text on LED name badges through Bluetooth. The app provides options to portray names, clipart and simple animations on LED badges. For the data transfer from the smartphone to the LED badge we use Bluetooth. The project is based on the work of [Nilhcem](https://github.com/Nilhcem).
 
 <img height="200px" src="https://user-images.githubusercontent.com/11988517/56077705-ee242a00-5dfc-11e9-943c-06fe7e13a57e.png" />
 
@@ -39,9 +39,9 @@ There are a number of devices with Bluetooth on the market. As far as we can tel
 
 | <!-- -->    | <!-- -->    | <!-- -->    |
 |-------------|-------------|-------------|
-| <img src="https://user-images.githubusercontent.com/41234408/57381177-13bc0d80-71c8-11e9-9e43-078fbde42f4e.png" width="288" /><img src="https://user-images.githubusercontent.com/41234408/56267288-0e5d2d00-610c-11e9-9282-e88e78804f99.png" width="288" /> | <img src="https://user-images.githubusercontent.com/41234408/57381239-29313780-71c8-11e9-98db-040d8f5a41d4.png" width="288" /> <img src="https://user-images.githubusercontent.com/41234408/56267345-26cd4780-610c-11e9-944c-dcf345c55256.png" width="288" /> | <img src="https://user-images.githubusercontent.com/41234408/57381292-41a15200-71c8-11e9-9cbf-924a8e6d3468.png" width="288" /> <img src="https://user-images.githubusercontent.com/41234408/56267380-48c6ca00-610c-11e9-885e-a57f98346ecb.png" width="288" /> |
+| <img src="./docs/images/screen-1.png" width="288" /> <img src="./docs/images/screen-1-hard.png" width="288" /> | <img src="./docs/images/screen-2.png" width="288" /> <img src="./docs/images/screen-2-hard.png" width="288" /> | <img src="./docs/images/screen-3.png" width="288" /> <img src="./docs/images/screen-3-hard.png" width="288" /> |
 | <!-- -->    | <!-- -->    | <!-- -->    |
-| <img src="https://user-images.githubusercontent.com/41234408/57381335-5382f500-71c8-11e9-9903-f49cb1f70aa8.png" width="288" /> <img src="https://user-images.githubusercontent.com/41234408/56267536-b672f600-610c-11e9-958b-d84616380491.png" width="288" /> | <img src="https://user-images.githubusercontent.com/41234408/57381379-65649800-71c8-11e9-87cb-f699731353a2.png" width="288" /> <img src="https://user-images.githubusercontent.com/41234408/56267562-cb4f8980-610c-11e9-8ef7-5d831851b001.png" width="288" /> | <img src="https://user-images.githubusercontent.com/41234408/57381411-7a412b80-71c8-11e9-87fc-1867878e4f49.png" width="288" /> <img src="https://user-images.githubusercontent.com/41234408/56267566-cd194d00-610c-11e9-9e08-f6caed71c318.png" width="288" /> |
+| <img src="./docs/images/screen-4.png" width="288" /> <img src="./docs/images/screen-4-hard.png" width="288" /> | <img src="./docs/images/screen-5.png" width="288" /> <img src="./docs/images/screen-5-hard.png" width="288" /> | <img src="./docs/images/screen-6.png" width="288" /> <img src="./docs/images/screen-6-hard.png" width="288" /> |
 
 ## Contributions Best Practices
 
